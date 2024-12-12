@@ -1,4 +1,8 @@
-# lista
+"""
+Lista:
+Mutable
+Admite combinación de tipos de datos
+"""
 lista_edades = [40, 20, 30, 23, 34, 35]
 
 print(f'Primera posición: {lista_edades[0]}') # primera posición
