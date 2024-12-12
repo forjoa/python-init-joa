@@ -9,4 +9,4 @@ print(f'Set con nuevo elemento: {mi_set}')
 
 mi_set.remove(5)
 
-print(f'Mi set sin el ultimo elemento: {mi_set}')
+print(f'Mi set sin el elemento 5: {mi_set}')
