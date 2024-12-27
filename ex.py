@@ -7,7 +7,3 @@ for palabra in palabras:
         contador = contador + 1 
         
 print(f"Se encontraron {contador} palabras con más de 4 letras")
-        
-        
-
-
